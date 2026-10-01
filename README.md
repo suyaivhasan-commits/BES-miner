@@ -5,7 +5,8 @@ mkdir frontend backend
 
 touch frontend/index.html frontend/style.css frontend/app.js backend/worker.js
 
-shs-miner
+
+BES-miner
 │
 ├── frontend
 │   ├── index.html
